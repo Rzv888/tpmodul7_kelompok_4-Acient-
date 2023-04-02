@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\irfan\\.nuget\\packages\\": {}
+    "C:\\Users\\atioh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Vs\\Code\\tpmodul7_kelompok_4(Acient +)\\tpmodul7_kelompok_4(Acient +)\\tpmodul7_kelompok_4(Acient +).csproj",
+      "projectUniqueName": "G:\\dokumen\\GitHub\\tpmodul7_kelompok_4-Acient-\\tpmodul7_kelompok_4(Acient +)\\tpmodul7_kelompok_4(Acient +).csproj",
       "projectName": "tpmodul7_kelompok_4(Acient +)",
-      "projectPath": "C:\\Vs\\Code\\tpmodul7_kelompok_4(Acient +)\\tpmodul7_kelompok_4(Acient +)\\tpmodul7_kelompok_4(Acient +).csproj",
-      "packagesPath": "C:\\Users\\irfan\\.nuget\\packages\\",
-      "outputPath": "C:\\Vs\\Code\\tpmodul7_kelompok_4(Acient +)\\tpmodul7_kelompok_4(Acient +)\\obj\\",
+      "projectPath": "G:\\dokumen\\GitHub\\tpmodul7_kelompok_4-Acient-\\tpmodul7_kelompok_4(Acient +)\\tpmodul7_kelompok_4(Acient +).csproj",
+      "packagesPath": "C:\\Users\\atioh\\.nuget\\packages\\",
+      "outputPath": "G:\\dokumen\\GitHub\\tpmodul7_kelompok_4-Acient-\\tpmodul7_kelompok_4(Acient +)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\irfan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\atioh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
