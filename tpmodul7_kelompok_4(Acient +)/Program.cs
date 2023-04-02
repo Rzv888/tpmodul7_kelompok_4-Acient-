@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace tpmodul7_kelompok_4_Acient___
+{
+    class Program
+{
+    static void Main(string[] args)
+    {
+        DataMahasiswa_1302210090_Irfan_Syauqi data = new DataMahasiswa_1302210090_Irfan_Syauqi();
+        data.ReadJSON();
+        Console.ReadKey();
+    }
+}
+}
